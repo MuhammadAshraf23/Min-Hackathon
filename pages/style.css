@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:  #7749f8;
+    padding: 10px 80px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav button{
+    border: none;
+    outline: none;
+    background-color:  #7749f8;
+    color: white;
+    font-weight: bold;
+}
